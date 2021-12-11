@@ -1,6 +1,9 @@
 # openAI Bot on Telegram
 It is a telegram bot written in python with openAI GPT-3, and we can host this bot on heroku directly.
 
+![screenshot](https://user-images.githubusercontent.com/64629430/145676488-47423b64-b0e6-405e-91d9-c72ade5e04dd.jpg)
+
+
 ## Setup
 
 1. Go to telegram and create a bot by botFather and get the token of that bot.

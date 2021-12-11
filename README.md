@@ -3,7 +3,7 @@ It is a telegram bot written in python with openAI GPT-3, and we can host this b
 
 # ScreenShot
 
-![man_paint_sky_129261_2560x1440](https://user-images.githubusercontent.com/64629430/145676741-c869e6dc-3948-40e2-ae52-b45ae6e9c6ac.jpg)
+![screenshot](https://user-images.githubusercontent.com/64629430/145676488-47423b64-b0e6-405e-91d9-c72ade5e04dd.jpg)
 
 
 ## Setup
